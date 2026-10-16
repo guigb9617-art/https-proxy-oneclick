@@ -1,5 +1,7 @@
 # HTTPS Proxy One-Click
 
+**[简体中文文档 / Chinese Guide](README.zh-CN.md)**
+
 An interactive installer for an **HTTPS forward proxy** on Ubuntu/Debian: stunnel (TLS) → Tinyproxy (BasicAuth + CONNECT) → HTTPS sites.
 
 ## Features
